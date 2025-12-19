@@ -1,1 +1,1 @@
-# js_course_pracrice
+# Файлы с практик по курсу JavaScript
